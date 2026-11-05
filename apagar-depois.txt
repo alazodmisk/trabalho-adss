@@ -1,0 +1,16 @@
+Na imagem diz
+
+- Jira -> ciclos de 7 dias
+- task, story, epic, bug (Creio eu que isso seja coisas do jira)
+- GitHub: cada tasks do jira vai se tornar um branche no github (creio que isso sejam os arquivos que fizemos, mas não criamos bramches)
+- 01 caso de uso [não login e relatório] (não entendi exatamente oq isso quer dizer)
+  - Regras de negócio
+  - Requisitos funcionais e não funcionais
+  - definição do UC
+  - diagrama de sequência
+  - diagrama de classes (não sei se fizemos esse)
+interface gráfica, back-end(api rest), bando de dados;
+
+Oq precisamos fazer:
+- creio que o diagrama de classes
+- interface gráfica, back-end(api rest), bando de dados; (é o vibecodas né pae)
